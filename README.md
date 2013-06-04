@@ -11,7 +11,6 @@ Lots! This is how I am installing OpenStack in a multi host environment.  At the
  - nova-scheduler
  - nova-novncproxy
  - nova-conductor
- - nova-network
 - nova-compute
  - nova-common
  - nova-compute
